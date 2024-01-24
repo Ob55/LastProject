@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Car Brand Website</title>
+</head>
+<body>
+
+    <header>
+        <h1>Car Brand</h1>
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search cars...">
+            <button type="button" onclick="searchCar()">Search</button>
+        </div>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Cars</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <section>
+        <div class="car-list" id="carList">
+            <div class="info-wrapper">
+                <h2 id="carName">Rolls Royce</h2>
+                <p class="temperature">Temperature: 25°C</p>
+            </div>
+            <img src="/rolls royce.webp" alt="" id="carImage">
+            <div class="bottom-left">Bottom Left</div>
+        </div>
+    </section>
+
+    <footer>
+        &copy; 2024 Car Brand. All rights reserved.
+    </footer>
+
+    <script src="/script.js"></script>
+</body>
+</html>

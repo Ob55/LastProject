@@ -1,0 +1,879 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head profile="http://www.w3.org/2005/10/profile">
+    <script>
+        window.dataLayer = [];
+    </script>
+    <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7XMQK4ME5J"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-7XMQK4ME5J');
+  </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T5XKPJ3');</script>
+    <!-- End Google Tag Manager -->
+   
+    
+      <link rel="canonical" href="https://price.com/" />
+    
+    
+    <script type="application/ld+json">
+
+</script>
+
+
+<style>@font-face{font-family:'Montserrat';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf) format('truetype')}@font-face{font-family:'Montserrat';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf) format('truetype')}@font-face{font-family:'Montserrat';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf) format('truetype')}@font-face{font-family:'Montserrat';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf) format('truetype')}@font-face{font-family:'Montserrat';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf) format('truetype')}@font-face{font-family:'Montserrat';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf) format('truetype')}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf) format('truetype')}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rAkA.ttf) format('truetype')}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf) format('truetype')}html{line-height:1.15;-webkit-text-size-adjust:100%}main{display:block}h1{font-size:2em;margin:.67em 0}body{font-size: 1.8rem;line-height: 1.67;}a{background-color:transparent}strong{font-weight:bolder}img{border-style:none}button,input{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button{text-transform:none}[type=button],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}body,button,div,form,header,input,section,table,td{box-sizing:border-box;font-family:Montserrat,Trebuchet MS,Helvetica,sans-serif;font-weight:400;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body{margin:0;position:relative}@media screen and (max-width:767px){body{margin:0}}body:after{position:absolute;top:0;right:0;width:0;height:0;background:rgba(0,29,94,.95);content:"";opacity:0}html{font-size:62.5%}.shell{padding-left:1.5rem;padding-right:1.5rem;margin:auto;width:100%}footer section.sub-nav .sub-nav__filler{display:flex;max-width:423px;min-width:423px}@media screen and (max-width:767px){footer section.sub-nav .sub-nav__filler{display:none}}.search{flex:1}@media screen and (max-width:767px){section{margin-top:69.5px}}.mobile{display:none}@media screen and (max-width:767px){.mobile{display:initial}}.homepage,html{-webkit-overflow-scrolling:touch!important;overflow:auto!important}.homepage{min-height:100vh;display:flex;position:relative;flex-direction:column;height:100%!important}.homepage .header{position:relative}.homepage .testimonial{display:none}.homepage .tile-main-wrapper h2{font-family:Montserrat,Trebuchet MS,Helvetica,sans-serif;font-weight:700}.homepage .homepage--chrome{margin-top:8rem}@media screen and (max-height:900px){.homepage .homepage--chrome{margin-top:5rem}}@media screen and (max-width:767px){.homepage .homepage--chrome{margin-top:2rem}}.homepage .homepage--chrome a{min-height:43px;min-width:249px;display:flex;align-items:center;justify-content:center;font-weight:500;padding:1rem 3rem;border:1px solid transparent;}@media screen and (max-width:767px){.homepage .homepage--chrome a{padding:0;box-shadow:none}}.homepage .btn--fixed-wrapper{display:none}.homepage--hero{min-height:100dvh;display:flex;align-items:center;margin-top:15vh;flex-direction:column;position:relative}@media screen and (max-height:900px){.homepage--hero{margin-top:-5rem}}@media screen and (max-width:767px){.homepage--hero{justify-content:flex-start;margin-top:0}}.homepage--hero figure{margin-bottom:3em;text-align:center}@media screen and (max-height:900px){.homepage--hero figure{margin-bottom:2em}}@media screen and (max-width:767px){.homepage--hero figure{margin-bottom:2em}}@media screen and (max-width:767px){.homepage--hero figure img{width:168px;height:42px}}.homepage--hero figcaption{text-align:center}.homepage--hero figcaption h1{font-family:Source Sans Pro;font-size:18px;line-height:23px;color:#222;font-weight:400;letter-spacing:0}@media screen and (max-width:767px){.homepage--hero figcaption h1{font-size:14px;line-height:18px;margin-top:1rem}}.button{background:none;border:0}.button--down-chevron{bottom:25vh;position:absolute}@media screen and (max-height:900px){.button--down-chevron{bottom:11vh}}@media screen and (max-width:767px){.button--down-chevron{bottom:100px}}.modal{position:fixed;left:0;top:0;width:100%;height:100%;background-color:rgba(0,29,94,.8);opacity:0;visibility:hidden;transform:scale(1.1)}#appleid-signin{display:none;box-shadow:2px 2px 10px 0 rgba(0,0,0,.1);border-radius:25px;color:#fff;font-weight:800;font-size:16px;border:0;white-space:nowrap;font-family:Montserrat,Trebuchet MS,Helvetica,sans-serif;align-items:center;min-width:327px;min-height:44px;height:44px;margin-top:1em}@media screen and (max-width:767px){#appleid-signin{margin-top:8px;font-size:16px}}.modal.modal__video .modal__video--content{position:relative;width:50%;left:25%;overflow:hidden;transform:translateY(-50%);top:50%;aspect-ratio:16/9}@media screen and (max-width:767px){.modal.modal__video .modal__video--content{width:100%;left:0}}.modal.modal__video .modal__video--content iframe{position:absolute;top:0;left:0;aspect-ratio:16/9;width:100%}.default__dropdown{position:relative;margin-left:0;flex-direction:column;background:#f8f8f8;width:273px;display:none}.navigation{position:absolute;width:322px;background:#fff;z-index:1001;height:100%;top:0;transform:translate3d(-100%,0,0);visibility:visible}@media screen and (max-width:767px){.navigation{width:337px}}.navigation ul.navigation__ul li{height:50px}.navigation ul.navigation__ul li:first-child{margin-bottom:2rem}.navigation ul.navigation__ul li a{font-size:20px;line-height:25px;font-family:Source Sans Pro}.navigation ul{list-style-type:none;padding:0;margin:0;width:100%;height:100%;box-sizing:content-box}.navigation ul li{height:38px;border-bottom:0;display:flex;align-items:center;font-family:Montserrat,Trebuchet MS,Helvetica,sans-serif;font-size:16px;font-weight:400;padding:0 1em;margin:0;box-sizing:content-box}@media screen and (max-width:767px){.navigation ul li{padding:0 1em}}.navigation ul li a{text-decoration:none;font-size:16px;color:#001d5e;font-weight:400}.navigation ul li button{color:#001d5e;background:none;outline:0;border:0;padding:0;font-size:20px;line-height:25px;font-family:Source Sans Pro;margin:0}.navigation ul li .navigation__close{border:0;background:none;display:flex;align-items:center;justify-content:flex-end;width:100%;font-size:11px;font-family:Montserrat,Trebuchet MS,Helvetica,sans-serif;text-transform:uppercase;color:#222;font-weight:500}.navigation ul li .navigation__close img{width:15px;height:15px;margin-left:8px}.testimonial .shell{max-width:128rem;padding-left:1.5rem;padding-right:1.5rem;margin:auto;width:100%}@media screen and (min-width:768px)and (max-width:1024px){.testimonial .shell{padding:0 2rem}}.testimonial .shell h2{font-family:Montserrat,Trebuchet MS,Helvetica,sans-serif;font-size:3.3rem;font-weight:600;letter-spacing:-.03em;color:#001d5e;text-transform:none}@media screen and (min-width:768px)and (max-width:1024px){.slider.slider--reviews{padding-left:.6rem;padding-right:.6rem}}@media screen and (max-width:767px){.slider.slider--reviews{padding-left:.2rem;padding-right:0}}#popular-stores .card .card__image{overflow:hidden}.testimonial{background:#fdf7f7;padding:7.6rem 0 6.6rem;text-align:center}@media screen and (min-width:768px)and (max-width:1024px){.testimonial{padding:8rem 0 6.6rem}}@media screen and (max-width:767px){.testimonial{padding:4.2rem 0 5rem}}.testimonial .shell h2{margin:0}@media screen and (min-width:768px)and (max-width:1024px){.testimonial .shell h2{font-size:3rem}}@media screen and (max-width:767px){.testimonial .shell h2{font-size:2rem;line-height:1.3}}.testimonial .shell h2+h4{margin:1.6rem 0 0}@media screen and (min-width:768px)and (max-width:1024px){.testimonial .shell h2+h4{margin:1.7rem 0 0}}@media screen and (max-width:767px){.testimonial .shell h2+h4{margin:.7rem 0 0}}.testimonial h4{color:#222;font-weight:500}@media screen and (max-width:767px){.testimonial h4{font-size:1.6rem}}.header{display:flex;position:relative;align-items:center;min-height:70px}@media screen and (max-width:767px){.header{justify-content:space-evenly}}.header div.menu{border-radius:20px;max-height:40px;display:flex;align-items:center;margin-top:0;margin-left:0;z-index:4}.homepage--hero__save{margin-top:8rem;min-width:880px;min-height: 240px;}@media screen and (max-height:850px){.homepage--hero__save{margin-top:4rem}}@media screen and (min-width:768px)and (max-width:1024px){.homepage--hero__save{max-width:100%;margin-top:5rem;min-width:0}}@media screen and (max-width:767px){.homepage--hero__save{max-width:100%;margin-top:5rem;min-width:0}}.homepage--hero__save h3{font-family:Montserrat,Trebuchet MS,Helvetica,sans-serif;font-weight:800;color:#222;font-size:16px;letter-spacing:-.25px;line-height:21px;text-align:center;margin-bottom:1rem}@media screen and (max-width:767px){.homepage--hero__save h3{text-align:left;margin-left:1em}}.homepage--hero__save h3 a{font-weight:500;line-height:18px;font-size:14px;text-decoration:underline;padding-left:1rem}.homepage--hero__save .slide__text h3{font-size: 18px;font-weight: 400;font-family: "Source Sans Pro",Helvetica,sans-serif;margin: 0 0 6px 0;text-align: center}.homepage--hero__save #popular-stores{max-width:880px;margin:0 auto}.homepage--hero__search-form{position:relative;width:100%}.homepage--hero__search-form #query{border:1.6px solid #ff4767;min-height:55px;border-radius:50px;width:100%;padding-left:20px;padding-right:30px;box-shadow:0 5px 45px 0 rgba(255,71,103,.15);font-size:18px}@media screen and (max-width:767px){.homepage--hero__search-form #query{font-size:13px;padding-left:12px;min-height:45px;width:100%}}.homepage--hero__search-form form.search{width:33%;display:flex;align-items:center;justify-content:center;margin:0 auto;position:relative}@media screen and (max-width:767px){.homepage--hero__search-form form.search{width:82%}}.homepage--hero__search-form form.search button{position:absolute;right:20px;border:0;background:none}@media screen and (max-width:767px){.homepage--hero__search-form form.search button{right:12px}}.homepage--hero__search-form form.search button.homepage--hero__search-form__close-button{right:46px;border-right:2px solid #f1f1f5;padding-right:1em;margin-right:10px;display:none}.homepage--hero__search-form form.search button.homepage--hero__search-form__close-button-back{right:auto;left:0;padding:6px;width:40px;height:40px;display:none}@media screen and (max-width:767px){.homepage--hero__search-form form.search button.homepage--hero__search-form__close-button-back img{min-width:17px;min-height:12px}}.header__profile-detail{background:#fff;border:2px solid #f1f1f5;box-shadow:0 2px 15px 0 rgba(0,0,0,.1);border-radius:8px;font-family:Source Sans Pro;font-weight:400;font-size:14px;color:#1f265a;letter-spacing:0;min-width:242px;min-height:259px;position:absolute;right:20px;top:67px;display:none}ul.header__profile-detail__ul{padding:0;list-style-type:none}ul.header__profile-detail__ul li{margin:0;padding:1rem 2rem}@media screen and (max-width:767px){ul.header__profile-detail__ul li{min-height:30px;max-height:30px}}ul.header__profile-detail__ul li a,ul.header__profile-detail__ul li button{font-family:Source Sans Pro;font-weight:400;font-size:16px;color:#1f265a;text-decoration:none;background:none;border:0}ul.header__profile-detail__ul li.header__profile-detail__additional a,ul.header__profile-detail__ul li.header__profile-detail__additional button{font-size:14px}ul.header__profile-detail__ul li.header__profile-detail__user{display:flex;min-height:58px;align-items:center;border-bottom:2px solid #f1f1f5}.button--profile{padding:5px 10px 5px 46px;font-family:Montserrat,Trebuchet MS,Helvetica,sans-serif;border:0;color:#001d5e;line-height:18px;font-weight:500;text-transform:uppercase;max-height:40px;align-items:center;border-radius:20px;font-size:14px;color:#222;letter-spacing:.78px;text-align:center;margin-top:0;margin-left:auto;margin-right:1em;z-index:4;display:none}.button--profile .button--profile__register,.button--profile .button--profile__signin{max-height:40px;min-height:40px;border-radius:20px;padding:0 2rem;white-space:nowrap;color:#222;text-decoration:none}@media screen and (max-width:767px){.button--profile .button--profile__register,.button--profile .button--profile__signin{padding:0}}.button--profile .button--profile__register{margin-right:2rem}.button--profile__signin{text-transform:uppercase}.button--profile__register{text-transform:uppercase;margin-right:3px}@media screen and (max-width:767px){.button--profile__register{display:none}}.button.button--menu{padding:15px;display:inline-block;font:inherit;color:inherit;text-transform:none;background-color:transparent;border:0;margin:0;overflow:visible;z-index:4}.button.button--menu figure{display:flex}@media screen and (max-width:767px){.button.button--menu figure{margin:0}}.button.button--menu figure figcaption{text-transform:uppercase;color:#222;padding-left:7px;font-size:14px}@media screen and (max-width:767px){.button.button--menu figure figcaption{display:none}}@media (max-width:767px){.hidden-xs{display:none!important}}@charset "UTF-8";*{padding:0;margin:0;outline:0;-webkit-box-sizing:border-box;box-sizing:border-box}*:before,*:after{-webkit-box-sizing:inherit;box-sizing:inherit}figcaption,figure,header,nav,section,main{display:block}body{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-smoothing:antialiased;-webkit-text-size-adjust:none;-moz-text-size-adjust:none;-ms-text-size-adjust:none;text-size-adjust:none}img,iframe{max-width:100%}img,iframe{border:0 none}img{height:auto;display:inline-block;vertical-align:middle}img{image-rendering:-webkit-optimize-contrast}strong{font-weight:700}button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0}input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none}button,input{font-family:inherit;font-size:inherit;color:inherit;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-smoothing:antialiased}button{text-transform:none}table{width:100%;border-collapse:collapse;border-spacing:0}nav ul{list-style:none outside none}input::-webkit-input-placeholder{color:inherit;opacity:1}input::-moz-placeholder{color:inherit;opacity:1}input:-ms-input-placeholder{color:inherit;opacity:1}input::-ms-input-placeholder{color:inherit;opacity:1}input:-webkit-autofill{-webkit-text-fill-color:inherit;-webkit-box-shadow:0 0 0 1000px #fff inset}input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}html{font-size:62.5%}a{color:inherit;text-decoration:none}h1,h2,h3,h4,h6{margin-bottom:0;font-family:"Montserrat","Trebuchet MS",Helvetica,sans-serif;font-weight:700}h1{margin-top:0;font-size:4.5rem;line-height:1.08;letter-spacing:-.05rem}@media (max-width:1023px){h1{font-size:2.4rem;line-height:1.14}}h2{font-size:3.8rem;line-height:1.1em;padding-bottom:.5em;font-weight:700;padding-right:25px}@media (max-width:1023px){h2{font-size:2.1rem}}h3{font-size:3.2rem;line-height:3.5rem}h4{font-size:2.8rem;line-height:1.2em}h6{font-size:1.8rem}ul,table{margin-bottom:1.67em}h1:last-child,h2:last-child,h4:last-child,h6:last-child,ul:last-child,table:last-child{margin-bottom:0}.hidden{display:none}.visible-xs-inline-block{display:none!important}@media (max-width:767px),screen and (max-width:812px) and (orientation:landscape){.hidden-xs{display:none!important}.visible-xs-inline-block{display:inline-block!important}}@media (min-width:767.02px) and (max-width:1023px){.hidden-sm{display:none!important}}.animations{opacity:0}.btn--fixed-wrapper{position:fixed;bottom:0;left:0;width:100%;z-index:5;padding:1rem 1.3rem;height:6.4rem;background-color:rgba(255,255,255,.8)}.progress-bar .progress-bar__text{margin-top:.7rem;position:relative;height:3rem}.progress-bar .progress-bar__text ul{list-style-type:none}.progress-bar .progress-bar__text li{position:absolute;top:0;left:0;visibility:hidden;opacity:0;font-size:2rem}.progress-bar .progress-bar__text li.is-active{visibility:visible;opacity:1}.section-main .section__image-btn{position:absolute;top:1.9rem;right:8rem;font-size:.9rem;height:2rem;line-height:1.9rem;padding:0 1.2rem}@media (max-width:1023px){.section-main--tertiary .section__image img{width:calc(100% + 5.5rem);max-width:calc(100% + 5.5rem);margin-right:-2.5rem;margin-left:-3rem}}@media (max-width:767px),screen and (max-width:812px) and (orientation:landscape){section{margin-top:0}}.shell{max-width:calc(118rem + 1.5rem * 2);padding-left:1.5rem;padding-right:1.5rem;margin:auto;width:100%}@media (max-width:1023px){.shell{padding-left:2.5rem;padding-right:2.5rem}}.table-primary td{width:50%;padding:.5rem 2.1rem;font-size:2.6rem;letter-spacing:-.02rem}.tile-main-wrapper h2{margin-bottom:.7rem;line-height:1.14;letter-spacing:-.1rem}.tile-main-wrapper .tile--main{min-height:33.1rem}@media (max-width:1023px){.tile-main-wrapper .tile--main{min-height:18rem}}.tile-main-wrapper .tile--alt{position:absolute;top:0;left:0;width:100%;height:100%;min-height:33.1rem;z-index:1;visibility:hidden;opacity:0}@media (max-width:1023px){.tile-main-wrapper .tile--alt{min-height:18rem}}.tile-main-wrapper .tile__images li{position:absolute;z-index:2}.tile-main-wrapper .tile__images li:nth-child(2){top:-7.2rem;left:51.5%}.tile-main-wrapper .tile__images li:nth-child(3){bottom:-4rem;left:3%}.tile--main{position:relative;padding:6.2rem 5rem 2rem;background:#fff;border-radius:1.5rem;-webkit-box-shadow:0 .2rem 3rem rgba(0,0,0,.1);box-shadow:0 .2rem 3rem rgba(0,0,0,.1)}@media (max-width:1023px){.tile--main{padding:2.7rem 3rem 2rem}}@media (max-width:374px){.tile--main{padding:2.7rem 2rem 2rem}}.tile--main .tile__content{max-width:40.4rem}.tile--main .tile__icon{margin-bottom:2rem}.tile--alt{padding:0;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;border-radius:1.5rem;overflow:hidden}.tile--alt .tile__aside{-webkit-box-flex:0;-ms-flex:0 0 37%;flex:0 0 37%;max-width:37%;padding:0 2rem 2rem 5rem;background:#fff}@media (max-width:1023px){.tile--alt .tile__aside{padding:0 2rem 2rem 3rem}}.tile--alt .tile__content{-webkit-box-flex:0;-ms-flex:0 0 63%;flex:0 0 63%;max-width:63%;padding:2rem 6rem;background:#007B60;color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.tile--alt .tile__icon{margin:-1rem 0 2rem}.tile-main-wrapper{position: relative;}.tile-main-wrapper .tile__images li:nth-child(2){position:absolute;top: -7.2rem;left: 51.5%}.homepage--hero__super-terms,.homepage--hero__default-terms{font-size: 12px;color: #737373;font-family: "Source Sans Pro";line-height: 16px;max-width: 33%;margin: 18px auto;text-align: center;}.homepage--hero__default-terms a{text-decoration:underline}.homepage--hero__save h2{font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;font-weight: 800;color: #222222;font-size: 16px;letter-spacing: -0.25px;line-height: 21px;text-align: center;margin-bottom: 1rem;} @media screen and (max-width: 767px){.homepage--hero__save h2{text-align: center; margin-left: 1em;}}.download-page--redirecting figcaption:after {overflow: hidden;display: inline-block;vertical-align: bottom;-webkit-animation: ellipsis steps(4, end) 900ms infinite;animation: ellipsis steps(4, end) 900ms infinite; content: "\2026";width: 0px;position: absolute;}@keyframes ellipsis {to {width: 1em;}}</style>
+<script src="https://dz7smbqkw02oe.cloudfront.net/smartbanner/dist/smartbanner.min.js" defer></script>
+<link rel="stylesheet" href="https://dz7smbqkw02oe.cloudfront.net/smartbanner/dist/smartbanner.min.css" defer>
+
+    <meta property="og:image" content="https://dz7smbqkw02oe.cloudfront.net/homepage-v4/images/meta/price-meta-oneclick2.jpg">
+
+  <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Titillium+Web:wght@400;700&family=Source+Sans+Pro:wght@400;600;700&display=swap">
+
+    <noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Titillium+Web:wght@400;700&family=Source+Sans+Pro:wght@400;600;700&display=swap">
+    </noscript>
+    <link rel="icon" type="image/png" href="https://img.freepik.com/premium-vector/hunting-silhouette-hunter-with-shotgun-ducks_8071-37057.jpg">
+
+    
+        <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/kmmpkhpajpecmpdmmbpjmkmcmfdahkcj">
+    
+    <script src="https://apis.google.com/js/api:client.js"></script>
+    <title>
+       Price Hunters
+    </title>
+    
+    
+
+<!-- TrustBox script -->
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+<!-- End TrustBox script -->
+<meta name="facebook-domain-verification"
+content="d54scd5brqcdoin844i5sljj3gy5d4" />
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '258037545462977');
+  fbq('track', 'PageView');
+</script>
+<script>
+!function(v,i,b,e,c,o){if(!v[c]){var s=v[c]=function(){s.process?s.process.apply(s,arguments):s.queue.push(arguments)};s.queue=[],s.b=1*new Date;var t=i.createElement(b);t.async=!0,t.src=e;var n=i.getElementsByTagName(b)[0];n.parentNode.insertBefore(t,n)}}(window,document,"script","https://s.vibe.co/vbpx.js","vbpx");
+vbpx('init','iYMCdk');
+vbpx('event', 'page_view');
+</script>
+
+<script>
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+  ttq.load('COG1H7JC77UAA32C2O70');
+  ttq.page();
+}(window, document, 'ttq');
+</script>
+
+
+</head>
+<body class="homepage">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5XKPJ3"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+    
+<nav class="navigation" aria-hidden="true">
+  <ul class="navigation__ul">
+    <li>         
+        <button class="navigation__close" aria-label="Close Navigation">Close <img src="https://dz7smbqkw02oe.cloudfront.net/homepage-v4/images/close-nav.svg" alt="Close Navigation" /></button>
+    </li>
+    <li><a href="/cashback">See All Stores</a></li>
+    <li><a href="/in-store">In-Store Cash Back</a></li>
+    <li><a href="/download">Download Price.com</a></li>
+    <li><a href="/bestsellers">Best Sellers</a></li>
+    <li><a href="https://campaign.price.com/pharmacy-savings-card/">Pharmacy Savings Card</a></li>
+    <li><a href="/blog/category/collections/">Shopping Guides</a></li>
+  </ul>
+</nav>
+<header class="header">
+	<div class="menu">
+		<button class="button button--menu" aria-label="Menu" type="button">
+      <figure>
+      
+    
+      
+			  <figcaption></figcaption>
+      </figure>
+		</button>
+	</div>
+  
+	<div class="button--profile">
+		<button class="button button--profile__register" aria-label="Register">Register </button>
+		<button class="button button--profile__signin" aria-label="Sign In">Sign-In</button>
+	  </div>
+	
+	<div class="header__profile-detail">
+		<ul class="header__profile-detail__ul">
+			<li class="mobile">         
+				<button class="navigation__close" aria-label="Close Navigation">Close <img src="https://dz7smbqkw02oe.cloudfront.net/homepage-v4/images/close-nav.svg" alt="Close Navigation" /></button>
+			</li>
+			<li class="header__profile-detail__user">
+			</li>
+			<li class="header__profile-detail__wallet">
+				<a href="/cashback/transactions">Wallet</a>
+			</li>
+			<li class="header__profile-detail__price-drop">
+				<a href="/alert/list">My Price Drops</a>
+			</li>
+      <li class="header__profile-detail__favorite">
+				<a href="/coupons?favorites=true">My Favorites</a>
+			</li>
+			<li class="header__profile-detail__additional header__profile-detail__additional--invite">
+				<a href="/givefive">Invite Friends</a>
+			</li>
+			<li class="header__profile-detail__additional">
+				<a href="https://help.price.com">Help</a>
+			</li>
+      <li class="header__profile-detail__additional">
+				<a href="https://help.price.com/knowledge-base/missing-cash-back/">Find Missing Cash Back</a>
+			</li>
+			<li class="header__profile-detail__additional">
+				<button class="logout--button" aria-label="Sign Out">Sign Out</button>
+			</li>
+		</ul>
+	</div>
+</header>
+
+
+
+<main>
+	<div class="download-page--redirecting" style="position: fixed;z-index:5;display: flex;width: 100%;height: 100%;min-height: 100vh;align-items: center;justify-content: center;background: #F9FBE7;top:0;">
+        <figure style="display: flex;align-items: center;justify-content: center;flex-direction: column;min-height: 100vh;width: 100%;margin: 0;">
+            <img width="68" height="62" src="https://dz7smbqkw02oe.cloudfront.net/cashback-transactions/build/assets/images/svg/heart-anim.svg" alt="">
+            <figcaption style="font-size: 18px;color: #030300;margin-top: 3rem;position: relative;">
+                Price Hunters Is Coming...
+            </figcaption>
+        </figure>
+    </div>
+	<div class="homepage--hero">
+		<figure>
+			<img width="300" height="0" src="https://img.freepik.com/premium-vector/hunting-silhouette-hunter-with-shotgun-ducks_8071-37057.jpg" alt="Price Hunters">
+			<figcaption>
+				<h1>
+				PRICE HUNTERS
+				</h1>
+			</figcaption>
+		</figure>	
+		<section class="homepage--hero__search-form">
+			<form class="search" action="/search" method="get">
+				<label class="search-icon"></label>
+				<button name="close" value="close" aria-label="Close Search Form" class="mobile homepage--hero__search-form__close-button-back"><img src="https://dz7smbqkw02oe.cloudfront.net/images/search-back.svg" alt="Close Search Form" /></button>
+				<input type="text" name="query" id="query" autocomplete="on" type="text" name="query" placeholder="Search for anything">
+				<div class="default__dropdown"></div>
+				
+				<button name="submit" type="submit" aria-label="Submit" value="true"><img src="https://dz7smbqkw02oe.cloudfront.net/homepage-v4/images/search-icon.svg" width="21" height="21" alt="Submit" /></button>
+				<button name="close" value="close" aria-label="Close" class="homepage--hero__search-form__close-button"><img class="homepage--hero__search-form__close-button__img" src="https://dz7smbqkw02oe.cloudfront.net/homepage-v4/images/close-nav.svg" alt="Close Search Form" /></button>
+
+			</form>
+		</section>
+		<button class="button button--down-chevron" aria-label="Scroll Down">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnLPHuvVCKigPhX5uqNuqfe4f8n-6Xqf5Nsg&usqp=CAU" alt="Scroll Down" width="200" height="200" />
+		</button>
+		<section class="homepage--hero__save">
+			<div class="slider slider--primary slider--primary-size1" id="popular-stores" data-slides="8" data-slides-tablet="8" data-slides-mobile="3" data-slides-scroll="true">
+				<div class="slider__clip">
+					<div class="slider__slides">
+						
+					</div><!-- /.slider__slides -->
+				</div><!-- /.slider__clip -->
+			</div>
+		</section>
+
+					
+					</div>
+				
+				<section class="section-main section-main--tertiary">
+					<h2>Why Price Hunters ? </h2>
+
+					<div class="shell shell--md">
+						<div class="section__inner">
+							<div class="section__image">
+							<picture>
+								<source media="(max-width: 460px)" srcset="https://dz7smbqkw02oe.cloudfront.net/homepage/images/app-mockup2-1x.png">
+								<source media="(min-width : 461px) and (max-width : 767px)" srcset="https://dz7smbqkw02oe.cloudfront.net/homepage/images/app-mockup2-2x.png">
+								<img src="https://zoo.sandiegozoo.org/sites/default/files/styles/hero_with_nav_gradient/public/hero/shopping_hero.jpg?itok=Jr8gsuIC" alt="Why Price.com" width="623" height="358" class="lazyload" />
+							</picture>
+								
+		
+	
+								<a href="" class="button section__image-btn hidden-sm hidden-xs animations"></a>
+							</div><!-- /.section__image -->
+	
+							<div class="section__content">
+								<div class="section__content-inner">
+									<h3>Best Deals Always Camp Here ! </h3>
+	
+									<p class="">
+										No Need To Spend more, With Just a Click, You Can Start To Save on New, Used, and Refurbished Items Anywhere Globally.
+									</p>
+	
+								
+									<a href="https://www.amazon.com/" class="button size-1 hidden-xs hidden-sm">Let's Shop </a>
+								</div><!-- /.section__content-inner -->
+							</div><!-- /.section__content -->
+						</div><!-- /.section__inner -->
+					</div><!-- /.shell -->
+				</section><!-- /.section-main -->
+	
+				<section class="section-main section-main--fixed section-main--reversed section-main--alt">
+					<div class="shell">
+						<div class="section__inner">
+							<div class="section__aside">
+								
+								<div class="section__background js-parallax" style="background-image: url(https://www.watoto.com/wp-content/uploads/2020/04/VILLAGES-Jimmy-DSC_9356-mobile.jpg)"></div><!-- /.section__image -->
+	
+								<div class="section__tile">
+									<h4>ksh. 923,455</h4>
+	
+									<p>Has Been Raised</p>
+								</div><!-- /.section__tile -->
+							</div><!-- /.section__aside -->
+	
+							<div class="section__content">
+								<div class="section__content-inner">
+									<h4>Donate  <br class="visible-xs-inline-block">The Discount</h4>
+	
+									<p>Join us in our great Project of keeping the Girl-Child in School And Providing Safe Drinking Water across Africa.
+									Remember, Nothing is too little ! 	
+									</p>
+	
+									<a href="https://www.watoto.com/donate/" class="button size-1 hidden-xs hidden-sm">Donate Now</a>
+								</div><!-- /.section__content-inner -->
+							</div><!-- /.section__content -->
+						</div><!-- /.section__inner -->
+					</div><!-- /.shell -->
+				</section><!-- /.section-main -->
+	
+				<section class="section-progress section--solid">
+					<div class="shell">
+						<header class="section__head">
+							<h3>Redeem Your Coupons With Us!</h3>
+	
+
+						</header><!-- /.section__head -->
+	
+						<div class="section__body">
+							<div class="tile-main-wrapper">
+								<ul class="tile__images">
+									<li>
+										
+										<img class="lazyload" src="https://dz7smbqkw02oe.cloudfront.net/homepage/images/mixer.png" alt="Mixer" width="208" height="190">
+									</li>
+	
+									<li class="hidden-xs hidden-sm">
+										
+										<img class="lazyload" src="https://dz7smbqkw02oe.cloudfront.net/homepage/images/hydroflask.png" alt="HydroFlask" width="282" height="282">
+									</li>
+	
+									<li>
+										
+										<img class="lazyload" src="https://dz7smbqkw02oe.cloudfront.net/homepage/images/jordans.png" alt="Jordans" width="300" height="196">
+									</li>
+	
+									<li>
+										
+										<img class="lazyload" src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/temp/airpod-pro.png" alt="Airpod Pro" width="213" height="220">
+									</li>
+								</ul><!-- /.tile__images -->
+	
+								<div class="tile--main hidden-xs hidden-sm">
+									<div class="tile__content">
+										<div class="tile__icon">
+											
+											<img class="lazyload" src="https://media.istockphoto.com/id/1136155337/fr/vectoriel/code-promo-code-coupon-illustration-de-conception-de-jeu-de-vecteur-plat-sur-le-fond-blanc.jpg?s=170667a&w=0&k=20&c=B_RcMoiKvgI2ZETXyH9wSh8vQmbitON3r0XYY04U8MM=" alt="Price.com" width="45" height="45">
+										</div><!-- /.tile__icon -->
+	
+										<div class="progress-bar js-progressbar">
+											<h3>Trying the Best Coupon Codes</h3>
+	
+											<div class="progress-bar__inner" id="progressbar"></div><!-- /.progress-bar -->
+	
+											<div class="progress-bar__text">
+												<ul>
+													<li class="is-active">codes to try</li>
+	
+													<li>REF205</li>
+	
+													<li>Fall30</li>
+	
+													<li>TAKE15OFF</li>
+	
+													<li>TAKE25</li>
+	
+													<li>S4V3B1G10</li>
+	
+													<li>THANKS15</li>
+												</ul>
+											</div><!-- /.progress-bar__text -->
+										</div><!-- /.progress-bar -->
+									</div><!-- /.tile__content -->
+	
+									<div class="tile--alt js-tile-overlay">
+										<div class="tile__aside">
+											<div class="tile__icon">
+												
+												<img class="lazyload" src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/temp/price-logo-icon-2.png" alt="Price.com" width="112" height="119">
+											</div><!-- /.tile__icon -->
+	
+											<h2>Discount Received!</h2>
+										</div><!-- /.tile__aside -->
+	
+										<div class="tile__content">
+											<div class="table-primary">
+												<table>
+													<tr>
+														<td>Total(ksh)</td>
+	
+														<td>4,500</td>
+													</tr>
+	
+													<tr>
+														<td><strong>Savings(ksh)</strong></td>
+	
+														<td><strong>250.5</strong></td>
+													</tr>
+	
+													<tr>
+														<td>You Pay(ksh)</td>
+	
+														<td>4,249.5 </td>
+													</tr>
+												</table>
+											</div><!-- /.table-primary -->
+										</div>
+									</div><!-- /..tile-main-/-alt -->
+								</div><!-- /.tile__inner -->
+	
+								<div class="tiles-group js-tiles-group visible-xs-block visible-sm-block">
+									<div class="tile-main--alt tile--main">
+										<div class="tile__content">
+											<div class="tile__icon">
+												
+												<img class="lazyload" src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/temp/price-logo-icon.png" alt="Price.com" width="26" height="26">
+											</div><!-- /.tile__icon -->
+	
+											<div class="tile__title">
+												<h2>Save 20%</h2>
+	
+												<div class="tile__title-inner">
+													<i class="ico-shield-small">
+														
+														<img class="lazyload" src="https://dz7smbqkw02oe.cloudfront.net/homepage-v4/images/verified-check.svg" alt="Price.com Verified" width="12" height="14">
+													</i>
+	
+													<span>Verified</span>
+												</div><!-- /.tile__title-inner -->
+											</div><!-- /.tile__title -->
+	
+											<p>Coupon Code:</p>
+	
+											<div class="code">
+												<p>FALLSAVE20</p>
+	
+												<div class="code__tooltip-wrpper">
+													<div class="code__tooltip code__tooltip-primary">
+														<span>Click to Copy</span>
+													</div><!-- /.code__tooltip -->
+	
+													<div class="code__tooltip code__tooltip-secondary">
+														<span>Copied to Clipboard</span>
+													</div><!-- /.code__tooltip -->
+												</div><!-- /.code__tooltip -->
+											</div><!-- /.code -->
+										</div><!-- /.tile__content -->
+									</div><!-- /.tile-/-alt -->
+	
+									<div class="tile--alt tile--alt-secondary">
+										<div class="tile__aside">
+											<div class="tile__icon">
+												
+												<img class="lazyload" src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/temp/price-logo-icon-2.png" alt="Price.com" width="75" height="81">
+											</div><!-- /.tile__icon -->
+	
+											<h2>20% Coupon Applied!</h2>
+										</div><!-- /.tile__aside -->
+									</div><!-- /..tile-main-/-alt -->
+								</div><!-- /.tiles-group -->
+							</div><!-- /.tile-main -->
+						</div><!-- /.section__body -->
+					</div><!-- /.shell -->
+				</section><!-- /.section-progress -->
+	
+				<section class="section-main section-main--secondary section-main--alt">
+					<div class="shell shell--md">
+						<div class="section__inner">
+							<div class="section__image">
+								
+								<img class="lazyload" src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/04/price-comparison-apps.jpg" alt="Never Miss on Savings" width="616" height="507">
+							</div><!-- /.section__image -->
+	
+							<div class="section__content">
+								<div class="section__content-inner">
+									<h3>Price Comparison</h3>
+	
+									<p>At Price Hunters, We let you compare prices several retailers to make sure you're always getting the best deal.</p>
+	
+									<a href="" class="button size-1 hidden-xs hidden-sm">Compare</a>
+								</div><!-- /.section__content-inner -->
+							</div><!-- /.section__content -->
+						</div><!-- /.section__inner -->
+					</div><!-- /.shell -->
+				</section><!-- /.section-main -->
+	
+				<section class="section-main section-main--primary section-main--reversed">
+					<div class="shell shell--md">
+						<div class="section__inner">
+							<div class="section__aside">
+								<div class="tiles">
+									<div class="tile tiles__tile animations delay-1" data-animation="fadeIn">
+										<div class="tile__inner">
+											<div class="tile__icon">
+												<i class="ico-present">
+													
+													<img src="https://previews.123rf.com/images/olenatroshchak/olenatroshchak2003/olenatroshchak200300099/143464299-kenyan-shilling-currency-symbol-icon-of-kenia-vector-illustration-on-a-white-background.jpg" alt="Shillings" width="31" height="30">
+												</i>
+											</div><!-- /.tile__icon -->
+	
+											<h4>Kenyan Shillings</h4>
+										</div><!-- /.tile__inner -->
+									</div><!-- /.tile -->
+	
+									<div class="tile tiles__tile animations delay-2" data-animation="fadeIn">
+										<div class="tile__inner">
+											<div class="tile__icon">
+												<i class="ico-bow">
+													<img src="https://www.svgrepo.com/download/124250/pound.svg" alt="Pound" width="31" height="30">
+												</i>
+											</div><!-- /.tile__icon -->
+	
+											<h5>Pound Sterling</h5>
+										</div><!-- /.tile__inner -->
+									</div><!-- /.tile -->
+	
+									<div class="tile tiles__tile animations delay-3" data-animation="fadeIn">
+										<div class="tile__inner">
+											<div class="tile__icon">
+												<i class="ico-pig">
+													
+													<img src="https://cdn2.iconfinder.com/data/icons/color-svg-money-icons/512/yen_coin_money_sign_currency-512.png" alt="Yen" width="31" height="31">
+												</i>
+											</div><!-- /.tile__icon -->
+	
+											<h5>Japanese Yen</h5>
+										</div><!-- /.tile__inner -->
+									</div><!-- /.tile -->
+	
+									<div class="tile tiles__tile animations delay-4" data-animation="fadeIn">
+										<div class="tile__inner">
+											<div class="tile__icon">
+												<i class="ico-bitcoin">
+													
+													<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWA5ZyZKla_ZOk8vrID7kmPaTQnO2j389bA&usqp=CAU" alt="Dollar" width="60" height="60">
+												</i>
+											</div><!-- /.tile__icon -->
+											<h5>US Dollar</h5>
+										</div><!-- /.tile__inner -->
+									</div><!-- /.tile -->
+								</div><!-- /.tiles -->
+							</div><!-- /.section__aside -->
+	
+							<div class="section__content">
+								<div class="section__content-inner">
+									<h3>We Accept Multiple Currencies</h3>
+	
+									<p>​​
+										PriceHunters lets you pay with several global currencies to any retailer.
+									</p>
+	
+									<a href="" class="button size-1 hidden-xs hidden-sm">Show Me  ; )</a>
+								</div><!-- /.section__content-inner -->
+							</div><!-- /.section__content -->
+						</div><!-- /.section__inner -->
+					</div><!-- /.shell -->
+				</section><!-- /.section-main -->
+
+				<section class="section-reviews section--solid section--solid-alt">
+					<div class="shell shell--md">
+						<div class="section__inner">
+							<aside class="section__aside">
+								<div class="tile-primary">
+									<div class="tile__inner">
+										<h4>Our Word Alone Couldn't Be Enough</h4>
+	
+										<p>Global Users Also Took the podium... </p>
+									</div>
+								</div><!-- /.tile-primary -->
+							</aside><!-- /.section__aside -->
+	
+							<div class="section__content">
+								<div class="slider slider--reviews slider--reviews-alt" id="slider-reviews" data-autoplay="true">
+									<div class="slider__clip">
+										<ul class="list-stars slider__list-stars animations delay-3" data-animation="fadeIn">
+											<li>
+												<i class="ico-star">
+													<img src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/svg/star.svg" alt="star" width="54" height="51">
+												</i>
+											</li>
+	
+											<li>
+												<i class="ico-star">
+													<img src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/svg/star.svg" alt="star" width="54" height="51">
+												</i>
+											</li>
+	
+											<li>
+												<i class="ico-star">
+													<img src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/svg/star.svg" alt="star" width="54" height="51">
+												</i>
+											</li>
+	
+											<li>
+												<i class="ico-star">
+													<img src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/svg/star.svg" alt="star" width="54" height="51">
+												</i>
+											</li>
+	
+											<li>
+												<i class="ico-star">
+													
+													<img src="https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/images/svg/star.svg" alt="star" width="54" height="51">
+												</i>
+											</li>
+										</ul><!-- /.list-stars -->
+	
+										<span class="slider__count"></span>
+	
+										<div class="slider__slides">
+										</div><!-- /.slider__slides -->
+									</div><!-- /.slider__clip -->
+								</div><!-- /.slider js-slider -->
+							</div><!-- /.section__content -->
+						</div>
+					</div><!-- /.shell -->
+				</section><!-- /.section-riviews -->
+	
+				<section class="section-brands">
+					<header class="section__head">
+						<div class="shell">
+							<h3>Helping Nations Shop Smarter, Not Harder...
+
+							</h3>
+	
+							<p>Save ore money For the things you like with us!</p>
+						</div><!-- /.shell -->
+					</header><!-- /.section__head -->
+	
+
+			
+	
+</main>
+  <div class="bar">
+    <div class="shell">
+      <a href="/feedback">
+        
+        <h2>Find Out More!</h2>
+      </a>
+    </div>
+    <!-- /.shell -->
+  </div>
+  <!-- /.bar -->
+
+<footer class="footer">
+  <div class="shell">
+    <section class="column flex">
+      <div class="flex vertical margin-0">
+        <div class="footer__inner">
+          <div class="footer__content">
+            <figure class="logo">
+              <a href="https://logo.com/view/logo_3dd7bcfc-0b2c-4fda-8ccc-365a44e6d484" aria-label="Footer Link Price.com"><img data-src="https://logo.com/view/logo_3dd7bcfc-0b2c-4fda-8ccc-365a44e6d484" class="lazyload" alt="" /></a>
+              <figcaption>
+                <span>Mchezo Technologies Inc. </span>
+				<span>| Eat.Play.Code. |</span>
+                <span>Nairobi,Kenya.</span>
+				<span></span>
+              </figcaption>
+            </figure>
+
+          </div>
+          <!-- /.footer__content -->
+
+          <div class="footer__aside">
+            <div class="social">
+              <a href="https://www.tiktok.com/foryou?lang=en">
+                <figure>
+                  <img data-src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/tiktok-black.svg" alt="tiktok" width="17" height="20" class="lazyload" />
+                  <figcaption></figcaption>
+                </figure>
+              </a>
+
+              <a href="https://shorturl.at/szGJ2">
+                <figure>
+                  <img data-src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/instagram-black.svg" alt="instagram" width="20" height="20" class="lazyload" />
+                  <figcaption></figcaption>
+                </figure>
+              </a>
+
+              <a href="https://www.facebook.com/">
+                <figure>
+                  <img data-src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/facebook-black.svg" alt="facebook" width="11" height="20" class="lazyload" />
+                  <figcaption></figcaption>
+                </figure>
+              </a>
+
+              <a href="https://www.pinterest.com/login/">
+                <figure>
+                  <img data-src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/pinterest-black.svg" alt="pinterest" width="15" height="20" class="lazyload" />
+                  <figcaption></figcaption>
+                </figure>
+              </a>
+
+              <a href="https://shorturl.at/zU468">
+                <figure>
+                  <img data-src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/x-black.svg" alt="twitter" width="24" height="20" class="lazyload" />
+                  <figcaption></figcaption>
+                </figure>
+              </a>
+            </div>
+
+            <section class="sign-up column">
+              
+
+              <h4>Join Our Saving Community</h4>
+
+              <form action="#" class="signup">
+                <input type="text" name="email" id="email" placeholder="Input your Email" />
+
+                <button class="button" aria-label="Subscribe" type="submit"><img data-src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/green-subscribe.svg" class="lazyload" alt="Subscribe" /></button>
+              </form>
+              <div class="email-message" id="thanks"></div>
+            </section>
+          </div>
+        </div>
+        <!-- /.footer__aside -->
+      </div>
+      <!-- /.footer__inner -->
+
+      <div class="footer__cols">
+        <div class="footer__nav">
+          <h6>
+            About
+            <img src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/svg/footer-menu-arrow.svg" alt="Expand About Menu" />
+          </h6>
+
+          <div class="footer__links">
+            <ul>
+              <li>
+                <a href="/">Partners</a>
+              </li>
+
+              <li>
+                <a href="https://shorturl.at/aejE2">Inspiration</a>
+              </li>
+
+              <li>
+                <a href="">CSR</a>
+              </li>
+
+              <li>
+                <a href="https://shorturl.at/msC46">Tell a Friend!</a>
+              </li>
+
+              <li>
+                <a href="https://shorturl.at/DKTY9">Our Story</a>
+              </li>
+            </ul>
+          </div>
+          <!-- /.footer__links -->
+        </div>
+        <!-- /.footer__nav -->
+
+        <div class="footer__nav">
+          <h6>
+            Partners
+            <img src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/svg/footer-menu-arrow.svg" alt="Expand Stores Menu" />
+          </h6>
+
+          <div class="footer__links">
+            <ul>
+              <li>
+                <a href="https://www.ebay.com/">Ebay</a>
+              </li>
+
+              <li>
+                <a href="https://www.amazon.com/">Amazon</a>
+              </li>
+
+              <li>
+                <a href="https://www.target.com/">Target</a>
+              </li>
+
+              
+            </ul>
+          </div>
+          <!-- /.footer__links -->
+
+          <h6>
+			Prospects
+            <img src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/svg/footer-menu-arrow.svg" alt="Expand Seasonal Menu" />
+          </h6>
+
+          <div class="footer__links">
+            <ul>
+              <li>
+                <a href="https://influencermarketinghub.com/best-online-shopping-sites/">Shopping Guide</a>
+              </li>
+            </ul>
+          </div>
+          <!-- /.footer__links -->
+        </div>
+        <!-- /.footer__nav -->
+
+        <div class="footer__nav">
+          <h6>
+            Popular Categories
+
+            <img src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/svg/footer-menu-arrow.svg" alt="Expand Popular Categories Menu" />
+          </h6>
+
+          <div class="footer__links">
+            <ul>
+
+              <li>
+                <a href="/cashback#shoes">Shoes</a>
+              </li>
+
+              <li>
+                <a href="https://www.ebay.com/b/Makeup-Products/31786/bn_1865570">Makeup & Skincare</a>
+              </li>
+
+              <li>
+                <a href="https://www.ebay.com/b/Fashion/bn_7000259856">Clothing</a>
+                
+              </li>
+
+              <li>
+                <a href="https://www.ebay.com/b/Fashion/bn_7000259856">Home Items</a>
+                
+              </li>
+
+
+
+
+            </ul>
+          </div>
+          <!-- /.footer__links -->
+
+          <h6>
+            Reward & Support
+
+            <img src="https://dz7smbqkw02oe.cloudfront.net/footer/assets/images/svg/footer-menu-arrow.svg" alt="Expand Tools Menu" />
+          </h6>
+
+          <div class="footer__links">
+            <ul>
+              <li>
+                <a href="https://www.paypal.com/ca/signin">Buy the team Coffee</a>
+              </li>
+              <li>
+                <a href="https://www.paypal.com/ca/signin"></a>
+              </li>
+            
+              <li>
+                <a href="">Raise a Concern</a>
+              </li>
+            </ul>
+          </div>
+          <!-- /.footer__links -->
+        </div>
+        <!-- /.footer__nav -->
+      </div>
+      <!-- /.footer__cols -->
+    </section>
+    <section class="sub-nav">
+      <div class="sub-nav__links">Copyright 2024 | 
+        <a href="/sitemap.xml">This Final Capstone Project has been made with utmost love by Brian, Val, Jonathan, Stella, Osman and Jonah. </a>
+      </div>
+      <div class="sub-nav__filler"></div>
+    </section>
+  </div>
+  <!-- /.shell -->
+</footer>
+
+
+
+ 
+		
+	</script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.0.0/dist/instantsearch.production.min.js" integrity="sha256-6S7q0JJs/Kx4kb/fv0oMjS855QTz5Rc2hh9AkIUjUsk=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/ua-parser-js@0/dist/ua-parser.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/core.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/md5.js"></script>
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript">
+	window.process = {
+		env: { DEBUG: undefined },
+	};
+</script>
+<script>var cb = function() {
+	var l = document.createElement('link'); l.rel = 'stylesheet';
+	l.href = 'https://dz7smbqkw02oe.cloudfront.net/global/css/style.css';
+	var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+	var l2 = document.createElement('link'); l2.rel = 'stylesheet';
+	l2.href = 'https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/css/bundle.css';
+	var h2 = document.getElementsByTagName('head')[0]; h2.parentNode.insertBefore(l2, h2);
+	};
+	var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+	webkitRequestAnimationFrame || msRequestAnimationFrame;
+	if (raf) raf(cb);
+	else window.addEventListener('load', cb);</script>
+<script type="text/javascript" src='https://dz7smbqkw02oe.cloudfront.net/extension/build/assets/js/bundle.js?version=05/10/2024 11:59 a.m.' defer></script>
+
+<script type="text/javascript" src='https://dz7smbqkw02oe.cloudfront.net/global/js/homepage.bundle.js?version=05/10/2024 11:59 a.m.' defer></script>
+
+  <script>
+        var loadDeferredStyles = function() {
+          var addStylesNode = document.getElementById("deferred-styles");
+          var replacement = document.createElement("div");
+          replacement.innerHTML = addStylesNode.textContent;
+          document.body.appendChild(replacement)
+          addStylesNode.parentElement.removeChild(addStylesNode);
+        };
+        var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+            window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+        if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+        else window.addEventListener('load', loadDeferredStyles);
+      </script>
+    <div class="cashback-offer" style="display: none !important"><div><a href="#"></a></div></div>
+</body>
+</html>
